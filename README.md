@@ -13,6 +13,8 @@
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="animated" />
 </p>  
 
+<br></br>
+
 <!-- Social icons section -->
 <p align="center">
   <a href="https://tryhackme.com/p/daniel.vilaca98"><img width="60px" alt="TryHackMe" title="TryHackMe" src="https://assets.tryhackme.com/img/THMlogo.png"/></a>
@@ -22,7 +24,7 @@
   <a href="https://www.credly.com/users/daniel-vilaca" alt="Creedly" title="Creedly"><img width="40px" src="https://www.svgrepo.com/show/331358/credly.svg"/></a>
 </p>
 
-<br/>
+<br/></br>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielvilaka&show_icons=true&theme=dark"/>
