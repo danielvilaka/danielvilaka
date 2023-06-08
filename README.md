@@ -25,7 +25,7 @@
 <br/>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielvilaka"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielvilaka&show_icons=true&theme=dark"/>
 </p>
 
 <br></br>
