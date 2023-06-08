@@ -57,5 +57,9 @@
   <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="animated" />
 </p>
 
+<br></br>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<h3 align="center">Jokes Card</h3>
+<p align="center">
+  <a href="https://readme-jokes.vercel.app/api"><img width="60%" alt="Jokes Card" title="Jokes Card" src="https://readme-jokes.vercel.app/api" hspace="20"/></a>
+</p>
