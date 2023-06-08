@@ -56,3 +56,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" alt="animated" />
 </p>
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
