@@ -23,28 +23,30 @@
 
 <br/>
 
-<br>
-
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielvilaka"/>
+</p>
+
+<br></br>
   <h3 align="center">Languages | OS's | Tools:</h1>
+ <br></br>
+<p align="center">
 
-</br></br>
-
-  <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"hspace="2" />
-  <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-       right:10px;" hspace="2"/>
-  <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="C Language" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="Bash Language" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="Windows" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="RedHat" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" style="padding-right:10px;" hspace="2"/>
-  <img align="left" alt="CentOS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="Visual Studio Code" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="HTML5" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="CSS3" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"hspace="2" />
+  <img alt="JavaScript" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-       right:10px;" hspace="2"/>
+  <img alt="Node.js" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="MySQL" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="Git" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="C Language" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="Bash Language" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="Python" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="Linux" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="Windows" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="Ubuntu" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="RedHat" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain.svg" style="padding-right:10px;" hspace="2"/>
+  <img alt="CentOS" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="padding-right:10px;" hspace="2"/>
 </p>
 
 <br></br>
