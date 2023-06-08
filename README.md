@@ -17,11 +17,9 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://tryhackme.com/p/daniel.vilaca98"><img width="60px" alt="TryHackMe" title="TryHackMe" src="https://assets.tryhackme.com/img/THMlogo.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/danielvilaca/"><img width="50px" alt="Linkedin" title="Linkedin" src="https://www.svgrepo.com/show/448234/linkedin.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.credly.com/users/daniel-vilaca" alt="Creedly" title="Creedly"><img width="40px" src="https://www.svgrepo.com/show/331358/credly.svg"/></a>
+  <a href="https://tryhackme.com/p/daniel.vilaca98"><img width="60px" alt="TryHackMe" title="TryHackMe" src="https://assets.tryhackme.com/img/THMlogo.png" hspace="20"/></a>
+  <a href="https://www.linkedin.com/in/danielvilaca/"><img width="50px" alt="Linkedin" title="Linkedin" src="https://www.svgrepo.com/show/448234/linkedin.svg" hspace="20"/></a>
+  <a href="https://www.credly.com/users/daniel-vilaca" alt="Creedly" title="Creedly"><img width="40px" src="https://www.svgrepo.com/show/331358/credly.svg" hspace="20"/></a>
 </p>
 
 <br/></br>
