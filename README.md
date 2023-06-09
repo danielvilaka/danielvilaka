@@ -63,3 +63,9 @@
 <p align="center">
   <a href="https://readme-jokes.vercel.app/api"><img width="60%" alt="Jokes Card" title="Jokes Card" src="https://readme-jokes.vercel.app/api" hspace="20"/></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/danielvilaka">
+    <img src="https://komarev.com/ghpvc/?username=danielvilaka&color=red&style=flat" />
+  </a>
+</p>
