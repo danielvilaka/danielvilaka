@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/danielvilaka">
-    <h2 align="center"> Hey, I'm Daniel Vilaça 👋</h2>
+    <h3 align="center"> Hey, I'm Daniel Vilaça 👋</h3>
 </p>
 
 <p align="center">
